@@ -12,12 +12,10 @@ Mon profil GitHub - Étudiante ingénieure en informatique
   <a href="https://linkedin.com/in/votre-profil">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MIMOUN-ISLEM">
+  <a href="https://github.com/islemmimouni">
     <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/votre-pseudo">
-    <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+ 
 
   <br>
 
@@ -167,7 +165,6 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 - 💗 Génération de recettes IA
 - 💖 Intégration API
-- 💕 CI/CD automatisé
 </details>
 
 [🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/chef-virtuel)
