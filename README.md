@@ -9,7 +9,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
   <a href="mailto:mimounislem06@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/MIMOUN-ISLEM">
+  <a href="https://github.com/islemmimouni">
     <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="#">
@@ -333,15 +333,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 </div>
 
-<div align="center">
 
-| 📧 Email | 📱 Téléphone | 🌐 Portfolio |
-|----------|--------------|--------------|
-| [mimounislem06@gmail.com](mailto:mimounislem06@gmail.com) | [Votre numéro] | [En construction ✨] |
-
-📍 **Où me trouver :** Tunis · Bizerta · Mateur 🌹
-
-</div>
 
 ---
 
