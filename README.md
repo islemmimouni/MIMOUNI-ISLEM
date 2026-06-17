@@ -6,10 +6,10 @@ Mon profil GitHub - Étudiante ingénieure en informatique
   <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A9+Islem+Mimoun+%E2%9C%A9;Codeuse+au+c%C5%93ur+tendre+%F0%9F%8C%B9;En+route+vers+l'Architecture+%F0%9F%8C%88;Full-Stack+%26+IA+%F0%9F%A7%A0;L'art+du+code+en+douceur+%E2%9C%A8" alt="Typing SVG" />
   
   <!-- Badges de contact -->
-  <a href="mailto:votre.email@email.com">
+  <a href="mailto:mimounislem06@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/islemmimouni">
+  <a href="https://github.com/MIMOUN-ISLEM">
     <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="#">
