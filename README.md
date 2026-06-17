@@ -3,7 +3,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 <div align="center">
   
   <!-- Banner avec une vibe unique et poétique -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A9+Islem+Mimoun+%E2%9C%A9;Future+Architecte+Logiciel+%F0%9F%8C%88;Full-Stack+%26+IA+%F0%9F%A7%A0;L'art+du+code+en+douceur+%E2%9C%A8;Passionn%C3%A9e+par+la+tech+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A8+Islem+Mimouni+%E2%9C%A8;Passionn%C3%A9e+par+la+tech+%F0%9F%92%BB;Full-Stack+%26+IA+%F0%9F%A7%A0" alt="Typing SVG" />
   
   <!-- Badges de contact -->
   <a href="mailto:mimounislem06@gmail.com">
