@@ -24,7 +24,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
   
   ## ✿ Islem · Codeuse & Rêveuse ✿
   
-  ### *✨ Étudiante ingénieure · Full-Stack · IA Enthusiast ✨*
+  ### *✨ Étudiante ingénieure · Full-Stack ✨*
   
   *"Le code est ma poésie, la tech ma palette de couleurs"* 🌷
 
@@ -329,15 +329,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 </div>
 
-<div align="center">
 
-| 📧 Email | 📱 Téléphone | 🌐 Portfolio |
-|----------|--------------|--------------|
-| [votre.email@email.com](mailto:votre.email@email.com) | [Votre numéro] | [En construction ✨] |
-
-📍 **Où me trouver :** Tunis · Bizerta · Mateur 🌹
-
-</div>
 
 ---
 
@@ -376,7 +368,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 ### ✨ *"Codeuse, rêveuse, créatrice"* ✨
 
-### 💖 **Avec tout mon cœur, Islem** 💖
+
 
 ### © 2026 Islem Mimoun
 
