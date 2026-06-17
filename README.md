@@ -2,11 +2,11 @@
 Mon profil GitHub - Étudiante ingénieure en informatique
 <div align="center">
   
-  <!-- Banner avec une vibe plus unique et poétique -->
+  <!-- Banner avec une vibe unique et poétique -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A9+Islem+Mimoun+%E2%9C%A9;Codeuse+au+c%C5%93ur+tendre+%F0%9F%8C%B9;En+route+vers+l'Architecture+%F0%9F%8C%88;Full-Stack+%26+IA+%F0%9F%A7%A0;L'art+du+code+en+douceur+%E2%9C%A8" alt="Typing SVG" />
   
-  <!-- Badges minimalistes et élégants -->
-  <a href="mailto:mimounislem06@gmail.com">
+  <!-- Badges de contact -->
+  <a href="mailto:votre.email@email.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/islemmimouni">
@@ -15,12 +15,6 @@ Mon profil GitHub - Étudiante ingénieure en informatique
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-
-  <br>
-
-  <!-- Compteurs élégants -->
-  <img src="https://komarev.com/ghpvc/?username=MIMOUN-ISLEM&label=Visiteuses+%F0%9F%8C%B9&color=FFB6C1&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MIMOUN-ISLEM?label=Followers%20%F0%9F%8C%BC&style=social" alt="Followers" />
 
 </div>
 
@@ -61,10 +55,9 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 </div>
 
-<!-- Compétences en version plus organique -->
 <div align="center">
 
-### 🌸 Langages de prédilection
+### 🌸 Langages
 
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
@@ -72,7 +65,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 ![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌸 Frontend · L'art de l'interface
+### 🌸 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
@@ -80,29 +73,30 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 ![Tailwind](https://img.shields.io/badge/Tailwind-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🌸 Backend · L'architecture invisible
+### 🌸 Backend
 
 ![Django](https://img.shields.io/badge/Django-FFB6C1?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌸 Bases de données · La mémoire
+### 🌸 Bases de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌸 DevOps & Outils
+### 🌸 DevOps & Cloud
 
 ![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-FFB6C1?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🌸 Data & IA · La magie
+### 🌸 Data & IA
 
+![Analyse](https://img.shields.io/badge/Analyse-FFB6C1?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF69B4?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -210,7 +204,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 </td>
 <td width="40%">
 
-**💻 Stack utilisée :**
+**💻 Stack :**
 - PHP / MySQL
 - HTML / CSS / JS
 - Git / GitHub
@@ -236,11 +230,11 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 <td width="40%">
 
 **💻 Stack :**
-- Technologies modernes en cours de définition
+- Technologies modernes
 - Architecture scalable
 
 **⭐ Objectif :**
-✅ Solution innovante et pérenne
+✅ Solution innovante
 
 </td>
 </tr>
@@ -263,7 +257,6 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 - Spécialisation : Génie Logiciel
 - Projets : IA, Cloud, Architecture
-- Approche : Innovation & Méthodologie
 
 </td>
 <td align="center" width="50%">
@@ -273,7 +266,6 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 - Mention : Bien 🌸
 - POO, Algorithmique, Web, SI, BD
-- Base solide en développement
 
 </td>
 </tr>
@@ -322,10 +314,10 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 | 🎀 Objectif | 🌸 Statut |
 |-------------|-----------|
 | Certification Google Cloud | 🔄 En cours |
-| Contribution Open Source significative | 📋 Planifié |
+| Contribution Open Source | 📋 Planifié |
 | Certification AWS | 📋 Planifié |
-| Premier article tech sur Medium | 📋 Planifié |
-| Créer mon propre projet open source | 🌱 En réflexion |
+| Article tech sur Medium | 📋 Planifié |
+| Projet open source personnel | 🌱 En réflexion |
 
 </div>
 
@@ -341,7 +333,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 | 📧 Email | 📱 Téléphone | 🌐 Portfolio |
 |----------|--------------|--------------|
-| mimounislem06@gmail.com | +216 55 809 660 | [En construction ✨] |
+| [votre.email@email.com](mailto:votre.email@email.com) | [Votre numéro] | [En construction ✨] |
 
 📍 **Où me trouver :** Tunis · Bizerta · Mateur 🌹
 
@@ -386,16 +378,10 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 ### 💖 **Avec tout mon cœur, Islem** 💖
 
-### © 2026 Islem Mimoun · Tous droits réservés
+### © 2026 Islem Mimoun
 
 </div>
 
 ---
 
 **Dernière mise à jour :** Juin 2026 🌸
-    
-    C --> C1[Analyse]
-    C --> C2[Machine Learning]
-    
-    D --> D1[GCP]
-    D --> D2[CI/CD]
