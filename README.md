@@ -2,27 +2,25 @@
 Mon profil GitHub - Étudiante ingénieure en informatique
 <div align="center">
   
-  <!-- Banner avec cœur -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A9+Islem+Mimoun+%E2%9C%A9;Bienvenue+sur+mon+profil+%F0%9F%8C%B8;Ing%C3%A9nieure+en+Informatique+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%92%96;Data+Science+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <!-- Banner avec une vibe plus unique -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A9+Islem+Mimoun+%E2%9C%A9;%22IT+girl.exe%22+%F0%9F%92%BB;En+route+vers+l'Architecture+%F0%9F%8C%88;Full-Stack+%26+IA+%F0%9F%A7%A0;Codeuse+au+c%C5%93ur+tendre+%F0%9F%8C%B9" alt="Typing SVG" />
   
-  <!-- Badges girly -->
+  <!-- Badges minimalistes et élégants -->
   <a href="mailto:mimounislem06@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/votre-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/islemmimouni">
-    <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
- 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 
   <br>
 
-  <!-- Compteurs girly -->
+  <!-- Compteurs élégants -->
   <img src="https://komarev.com/ghpvc/?username=MIMOUN-ISLEM&label=Visiteuses+%F0%9F%8C%B9&color=FFB6C1&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MIMOUN-ISLEM?label=Followers%20%F0%9F%8C%BC&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MIMOUN-ISLEM?label=Stars%20%E2%9C%A8&style=social" alt="Stars" />
 
 </div>
 
@@ -30,101 +28,81 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 <div align="center">
   
-  ## ✿ Bonjour, je suis Islem ✿
+  ## ✿ Islem · Codeuse & Rêveuse ✿
   
-  ### *✨ Étudiante ingénieure en informatique ✨*
+  ### *✨ Étudiante ingénieure · Full-Stack · IA Enthusiast ✨*
   
-  *"La technologie au service de l'humain, avec une touche de douceur"* 🌷
+  *"Le code est ma poésie, la tech ma palette de couleurs"* 🌷
 
 </div>
 
 ---
 
-## 🌷 À propos de moi
+## 🌸 À propos de moi
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF3Mmx2d2tkM3R2cGZwdXpoc2c4b3N2c2RrN2E0bHZweGZ3eW0zOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhebjkou8V9iT/giphy.gif" width="150" align="right" style="border-radius: 15px;"/>
 </div>
 
 🌸 **Un peu de moi...**
 
 - 🎀 Étudiante en **3ème année cycle ingénieur** à TEK-UP Tunis
-- 💖 Passionnée par le **développement web** et **l'IA**
-- 🌸 J'adore créer des solutions qui **facilitent la vie**
-- 🎀 Curieuse, créative et toujours prête à apprendre
-- 🌷 Objectif : Devenir **Architecte Logiciel** ou **Data Engineer**
-- 📍 Basée à **Tunis, Bizerta, Mateur** 🌹
+- 💻 Passionnée par le **développement web** et **l'intelligence artificielle**
+- 🌸 J'aime transformer des idées en **solutions concrètes et élégantes**
+- 🎯 Objectif : Devenir **Architecte Logiciel** ou **Data Engineer**
+- 🌷 Basée à **Tunis, Bizerta, Mateur** 🌹
+- ☕ Fun fact : Je résous mes problèmes de code autour d'un bon café
 
 ---
 
 <div align="center">
   
-  ## 💕 Mes Petits Cœurs de Compétences 💕
+  ## 💕 Mon Univers Tech 💕
 
 </div>
 
-<!-- Compétences avec des cœurs -->
-<table align="center">
-<tr>
-<td align="center">
-
-### 🌸 Langages
-
-| Langage | Niveau |
-|---------|--------|
-| 💜 Python | ⭐⭐⭐⭐⭐ |
-| 💗 PHP | ⭐⭐⭐⭐⭐ |
-| 💖 JavaScript | ⭐⭐⭐⭐ |
-| 💕 Java | ⭐⭐⭐⭐ |
-| 🤍 C | ⭐⭐⭐ |
-
-</td>
-<td align="center">
-
-### 🌸 Frontend
-
-| Technologie | Niveau |
-|-------------|--------|
-| 💖 HTML/CSS | ⭐⭐⭐⭐⭐ |
-| 💗 React | ⭐⭐⭐⭐ |
-| 💕 Tailwind | ⭐⭐⭐⭐ |
-| 🌸 Bootstrap | ⭐⭐⭐⭐ |
-
-</td>
-<td align="center">
-
-### 🌸 Backend
-
-| Technologie | Niveau |
-|-------------|--------|
-| 💜 Django | ⭐⭐⭐⭐ |
-| 💗 Node.js | ⭐⭐⭐⭐ |
-| 💖 PHP | ⭐⭐⭐⭐ |
-| 💕 API REST | ⭐⭐⭐⭐ |
-
-</td>
-</tr>
-</table>
-
+<!-- Compétences en version plus organique -->
 <div align="center">
-  
-### 🌷 Bases de Données
-  
-![MySQL](https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 💗 DevOps & Cloud
-  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-FF69B4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 🌸 Langages de prédilection
+
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌸 Frontend · L'art de l'interface
+
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🌸 Backend · L'architecture invisible
+
+![Django](https://img.shields.io/badge/Django-FFB6C1?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌸 Bases de données · La mémoire
+
+![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🌸 DevOps & Outils
+
 ![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-FFB6C1?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🌸 Data & IA
-  
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFB6C1?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=white)
+### 🌸 Data & IA · La magie
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF69B4?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -140,16 +118,16 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 <tr>
 <td align="center" width="50%">
 
-### 🏢 Logiciel de Gestion
+### 🏢 Gestion d'Entreprise
 *Node.js · React · MySQL · GCP · Stripe*
 
 <details>
-<summary><b>🌸 Détails</b></summary>
+<summary><b>🌸 En savoir plus</b></summary>
 
-- 💗 Synchronisation automatique
-- 💖 Visualisation interactive
-- 💕 Paiement en ligne (Stripe)
-- 🌸 Architecture cloud (GCP)
+- 💗 Synchronisation automatique des données
+- 💖 Visualisation interactive en temps réel
+- 💕 Intégration paiement Stripe
+- 🌸 Architecture cloud scalable
 </details>
 
 [🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/gestion-entreprise)
@@ -161,10 +139,11 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 *Django · API · CI/CD*
 
 <details>
-<summary><b>🌸 Détails</b></summary>
+<summary><b>🌸 En savoir plus</b></summary>
 
-- 💗 Génération de recettes IA
-- 💖 Intégration API
+- 💗 Génération intelligente de recettes
+- 💖 Intégration d'API externes
+- 💕 Déploiement continu
 </details>
 
 [🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/chef-virtuel)
@@ -179,11 +158,11 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 *PHP · MySQL · JS · CSS*
 
 <details>
-<summary><b>🌸 Détails</b></summary>
+<summary><b>🌸 En savoir plus</b></summary>
 
-- 💗 Gestion complète (CRUD)
+- 💗 CRUD complet
 - 💖 Suivi des stocks
-- 💕 Génération de factures
+- 💕 Génération automatique de factures
 </details>
 
 [🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/reclamation)
@@ -195,11 +174,11 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 *Java Swing · MySQL*
 
 <details>
-<summary><b>🌸 Détails</b></summary>
+<summary><b>🌸 En savoir plus</b></summary>
 
-- 💗 Application desktop
-- 💖 Interface graphique
-- 💕 Base de données
+- 💗 Application desktop ergonomique
+- 💖 Interface graphique intuitive
+- 💕 Gestion de base de données
 </details>
 
 [🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/reservation-voiture)
@@ -225,19 +204,19 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 - 💗 Tableau de bord de gestion des stocks
 - 💖 Optimisation des performances (-30% de temps)
-- 💕 Tests et maintenance
+- 💕 Tests et maintenance en conditions réelles
 - 🌸 Méthodologie Agile/Scrum
 
 </td>
 <td width="40%">
 
-**💻 Stack :**
+**💻 Stack utilisée :**
 - PHP / MySQL
 - HTML / CSS / JS
 - Git / GitHub
 
-**⭐ Résultat :**
-✅ Application en production !
+**⭐ Impact :**
+✅ Application en production
 
 </td>
 </tr>
@@ -248,19 +227,20 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 ### 🌷 Projet de Fin d'Études
 **Société Elgidaal** | *En cours*
 
-- 💗 Analyse des besoins
-- 💖 Conception de l'architecture
-- 💕 Développement sur mesure
+- 💗 Analyse approfondie des besoins
+- 💖 Conception de l'architecture logicielle
+- 💕 Développement d'une solution sur mesure
+- 🌸 Accompagnement personnalisé
 
 </td>
 <td width="40%">
 
 **💻 Stack :**
-- En cours de définition
-- Technologies modernes
+- Technologies modernes en cours de définition
+- Architecture scalable
 
 **⭐ Objectif :**
-✅ Solution innovante
+✅ Solution innovante et pérenne
 
 </td>
 </tr>
@@ -276,20 +256,24 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
 ### 🎀 Cycle Ingénieur
 **TEK-UP Tunis** | *2025 – Présent*
+
 - Spécialisation : Génie Logiciel
 - Projets : IA, Cloud, Architecture
+- Approche : Innovation & Méthodologie
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
 ### 🎀 Licence Génie Logiciel
 **ISLAIB Béja** | *2022 – 2025*
+
 - Mention : Bien 🌸
 - POO, Algorithmique, Web, SI, BD
+- Base solide en développement
 
 </td>
 </tr>
@@ -307,8 +291,8 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 | Langue | Niveau | ♡ |
 |--------|--------|---|
-| **Français** | 🇫🇷 C1 – Courant | 💕 |
-| **Anglais** | 🇬🇧 B2 – Intermédiaire | 💗 |
+| **Français** | 🇫🇷 Courant (C1) | 💕 |
+| **Anglais** | 🇬🇧 Intermédiaire (B2) | 💗 |
 | **Arabe** | 🇹🇳 Langue maternelle | 💖 |
 
 </div>
@@ -319,38 +303,9 @@ Mon profil GitHub - Étudiante ingénieure en informatique
   
   ## 🌸 Un Peu de Douceur 🌸
   
-  > *"La vie est une aventure, la technologie est ma baguette magique."* 🌟
+  > *"Chaque ligne de code est une brique vers quelque chose de plus grand."* 🌟
   
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-
-</div>
-
----
-
-<div align="center">
-  
-  ## 📊 Mes Petites Statistiques 💖
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MIMOUN-ISLEM&show_icons=true&theme=onedark&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" width="100%" />
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMOUN-ISLEM&theme=onedark&hide_border=true&background=FFF0F5&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIMOUN-ISLEM&layout=compact&theme=onedark&hide_border=true&bg_color=FFF0F5&title_color=FF69B4" alt="Top Langs" width="50%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl4MzNuZG45MnMyeTJjZXJyZzZ4ZW4yYjk4N3g5a2ZmMWloNno5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" style="border-radius: 15px;"/>
 
 </div>
 
@@ -367,9 +322,10 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 | 🎀 Objectif | 🌸 Statut |
 |-------------|-----------|
 | Certification Google Cloud | 🔄 En cours |
-| Contribution Open Source | 📋 Planifié |
+| Contribution Open Source significative | 📋 Planifié |
 | Certification AWS | 📋 Planifié |
-| Article technique sur Medium | 📋 Planifié |
+| Premier article tech sur Medium | 📋 Planifié |
+| Créer mon propre projet open source | 🌱 En réflexion |
 
 </div>
 
@@ -383,11 +339,11 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 <div align="center">
 
-| 📧 Email | 💼 LinkedIn | 🐦 Twitter | 📱 Téléphone |
-|----------|-------------|------------|--------------|
-| mimounislem06@gmail.com | [LinkedIn](https://linkedin.com/in/votre-profil) | [@votre-pseudo](https://twitter.com/votre-pseudo) | +216 55 809 660 |
+| 📧 Email | 📱 Téléphone | 🌐 Portfolio |
+|----------|--------------|--------------|
+| mimounislem06@gmail.com | +216 55 809 660 | [En construction ✨] |
 
-📍 **Où me trouver :** Tunis, Bizerta, Mateur, Tunisie 🌹
+📍 **Où me trouver :** Tunis · Bizerta · Mateur 🌹
 
 </div>
 
@@ -405,7 +361,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 |------|---------------|
 | **Alternance** | ✅ À partir de 2026 |
 | **Stage fin d'études** | ✅ 2026 |
-| **Projets collaboratifs** | ✅ Toujours ! |
+| **Projets collaboratifs** | ✅ Toujours ouverte ! |
 | **Café & Tech Talk** | ✅ Avec plaisir ☕ |
 
 </div>
@@ -414,9 +370,11 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 <div align="center">
   
-  ## 🌷 Une Petite Citation pour la Route 🌷
+  ## 🌷 Une Petite Pensée pour la Route 🌷
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Quote" />
+  <br>
+  
+  *"Le plus beau dans le code, c'est qu'il n'y a pas de limite à ce qu'on peut créer."* 💕
 
 </div>
 
@@ -424,18 +382,17 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 <div align="center">
 
-### ✨ *"La technologie est plus belle quand elle est au service des autres."* ✨
+### ✨ *"IT girl.exe - En mode création"* ✨
 
 ### 💖 **Avec tout mon cœur, Islem** 💖
 
-### © 2026 Islem Mimoun
+### © 2026 Islem Mimoun · Tous droits réservés
 
 </div>
 
 ---
 
 **Dernière mise à jour :** Juin 2026 🌸
-
     
     C --> C1[Analyse]
     C --> C2[Machine Learning]
