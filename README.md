@@ -16,14 +16,20 @@ Mon profil GitHub - Étudiante ingénieure en informatique
     <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 
+  <br>
+
+  <!-- Compteur de visiteurs -->
+  <img src="https://komarev.com/ghpvc/?username=MIMOUN-ISLEM&label=Visiteurs&color=FF69B4&style=flat" alt="Profile Views" />
+
 </div>
+
 ---
 
 <div align="center">
   
   ## ✿ Islem · Codeuse & Rêveuse ✿
   
-  ### *✨ Étudiante ingénieure · Full-Stack ✨*
+  ### *✨ Étudiante ingénieure · Full-Stack · IA Enthusiast ✨*
   
   *"Le code est ma poésie, la tech ma palette de couleurs"* 🌷
 
@@ -111,25 +117,8 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 <tr>
 <td align="center" width="50%">
 
-### 🏢 Gestion d'Entreprise
-*Node.js · React · MySQL · GCP · Stripe*
-
-<details>
-<summary><b>🌸 En savoir plus</b></summary>
-
-- 💗 Synchronisation automatique des données
-- 💖 Visualisation interactive en temps réel
-- 💕 Intégration paiement Stripe
-- 🌸 Architecture cloud scalable
-</details>
-
-[🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/gestion-entreprise)
-
-</td>
-<td align="center" width="50%">
-
-### 🍳 Chef Virtuel IA
-*Django · API · CI/CD*
+### 🤖 Chef IA
+*Django · API · IA*
 
 <details>
 <summary><b>🌸 En savoir plus</b></summary>
@@ -139,7 +128,23 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 - 💕 Déploiement continu
 </details>
 
-[🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/chef-virtuel)
+[🔗 Voir le projet 🌷](https://github.com/islemmimouni/chef-ia)
+
+</td>
+<td align="center" width="50%">
+
+### 🚗 CarRent
+*Java · MySQL · Swing*
+
+<details>
+<summary><b>🌸 En savoir plus</b></summary>
+
+- 💗 Application desktop ergonomique
+- 💖 Interface graphique intuitive
+- 💕 Gestion de base de données
+</details>
+
+[🔗 Voir le projet 🌷](https://github.com/islemmimouni/Carrent)
 
 </td>
 </tr>
@@ -147,7 +152,23 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 <tr>
 <td align="center" width="50%">
 
-### 🖥️ Gestion Réclamations
+### 📊 PlayStore LookerStudio Syn
+*Python · Data · LookerStudio*
+
+<details>
+<summary><b>🌸 En savoir plus</b></summary>
+
+- 💗 Analyse de données PlayStore
+- 💖 Visualisation LookerStudio
+- 💕 Synchronisation automatisée
+</details>
+
+[🔗 Voir le projet 🌷](https://github.com/islemmimouni/playstore-lookerstudio-syn)
+
+</td>
+<td align="center" width="50%">
+
+### 🖥️ Réclamation
 *PHP · MySQL · JS · CSS*
 
 <details>
@@ -158,23 +179,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 - 💕 Génération automatique de factures
 </details>
 
-[🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/reclamation)
-
-</td>
-<td align="center" width="50%">
-
-### 🚗 Réservation Voitures
-*Java Swing · MySQL*
-
-<details>
-<summary><b>🌸 En savoir plus</b></summary>
-
-- 💗 Application desktop ergonomique
-- 💖 Interface graphique intuitive
-- 💕 Gestion de base de données
-</details>
-
-[🔗 Voir le projet 🌷](https://github.com/MIMOUN-ISLEM/reservation-voiture)
+[🔗 Voir le projet 🌷](https://github.com/islemmimouni/reclamation)
 
 </td>
 </tr>
@@ -328,7 +333,15 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 </div>
 
+<div align="center">
 
+| 📧 Email | 📱 Téléphone | 🌐 Portfolio |
+|----------|--------------|--------------|
+| [mimounislem06@gmail.com](mailto:mimounislem06@gmail.com) | [Votre numéro] | [En construction ✨] |
+
+📍 **Où me trouver :** Tunis · Bizerta · Mateur 🌹
+
+</div>
 
 ---
 
@@ -367,9 +380,9 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 ### ✨ *"Codeuse, rêveuse, créatrice"* ✨
 
+### 💖 **Avec tout mon cœur, Islem** 💖
 
-
-### © 2026 Islem Mimoun
+### © 2026 Islem Mimouni
 
 </div>
 
