@@ -2,8 +2,8 @@
 Mon profil GitHub - Étudiante ingénieure en informatique
 <div align="center">
   
-  <!-- Banner avec une vibe plus unique -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A9+Islem+Mimoun+%E2%9C%A9;%22IT+girl.exe%22+%F0%9F%92%BB;En+route+vers+l'Architecture+%F0%9F%8C%88;Full-Stack+%26+IA+%F0%9F%A7%A0;Codeuse+au+c%C5%93ur+tendre+%F0%9F%8C%B9" alt="Typing SVG" />
+  <!-- Banner avec une vibe plus unique et poétique -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%E2%9C%A9+Islem+Mimoun+%E2%9C%A9;Codeuse+au+c%C5%93ur+tendre+%F0%9F%8C%B9;En+route+vers+l'Architecture+%F0%9F%8C%88;Full-Stack+%26+IA+%F0%9F%A7%A0;L'art+du+code+en+douceur+%E2%9C%A8" alt="Typing SVG" />
   
   <!-- Badges minimalistes et élégants -->
   <a href="mailto:mimounislem06@gmail.com">
@@ -41,7 +41,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 ## 🌸 À propos de moi
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF3Mmx2d2tkM3R2cGZwdXpoc2c4b3N2c2RrN2E0bHZweGZ3eW0zOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhebjkou8V9iT/giphy.gif" width="150" align="right" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhwazJwa2JxdnR1cWluaXU2d3k3ZnBweGJtdnZ5cWY1dnRseDZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150" align="right" style="border-radius: 15px;"/>
 </div>
 
 🌸 **Un peu de moi...**
@@ -305,7 +305,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
   
   > *"Chaque ligne de code est une brique vers quelque chose de plus grand."* 🌟
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl4MzNuZG45MnMyeTJjZXJyZzZ4ZW4yYjk4N3g5a2ZmMWloNno5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRydDM5M3NqaGg4M3BmOXMxdHk2dzkwY2owa3oxcGMzdmM5Y2VkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" style="border-radius: 15px;"/>
 
 </div>
 
@@ -382,7 +382,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 <div align="center">
 
-### ✨ *"IT girl.exe - En mode création"* ✨
+### ✨ *"Codeuse, rêveuse, créatrice"* ✨
 
 ### 💖 **Avec tout mon cœur, Islem** 💖
 
