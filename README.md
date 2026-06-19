@@ -268,7 +268,6 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 ### 🎀 Licence Génie Logiciel
 **ISLAIB Béja** | *2022 – 2025*
 
-- Mention : Bien 🌸
 - POO, Algorithmique, Web, SI, BD
 
 </td>
