@@ -347,8 +347,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 | Type | Disponibilité |
 |------|---------------|
-| **Alternance** | ✅ À partir de 2026 |
-| **Stage fin d'études** | ✅ 2026 |
+
 | **Projets collaboratifs** | ✅ Toujours ouverte ! |
 | **Café & Tech Talk** | ✅ Avec plaisir ☕ |
 
