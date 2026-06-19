@@ -337,23 +337,8 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 ---
 
-<div align="center">
+
   
-  ## 🌸 Disponibilité 💖
-
-</div>
-
-<div align="center">
-
-| Type | Disponibilité |
-|------|---------------|
-
-| **Projets collaboratifs** | ✅ Toujours ouverte ! |
-| **Café & Tech Talk** | ✅ Avec plaisir ☕ |
-
-</div>
-
----
 
 <div align="center">
   
