@@ -373,7 +373,7 @@ Mon profil GitHub - Étudiante ingénieure en informatique
 
 ### 💖 **Avec tout mon cœur, Islem** 💖
 
-### © 2026 Islem Mimouni
+###  2026 Islem Mimouni
 
 </div>
 
